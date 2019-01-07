@@ -2,3 +2,4 @@ Welcome! On this page you will find links to a sample of my data science/analyti
 
 
   * [Amazon Reviews](https://eugeneolkhov.github.io/AmazonReviews/)
+  * [Online News Popularity](https://eugeneolkhov.github.io/PG7/)
