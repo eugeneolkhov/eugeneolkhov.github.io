@@ -1,5 +1,4 @@
 title: Data Science Projects
-image: https://media.licdn.com/dms/image/C4E03AQEnIeU_VyeqaA/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=TGeh_cws0K7NJ4ORBD-AahJ1YaPni9rCA8c5nKm8bAo
 
 author: Eugene Olkhov
 email: eugeneolkhov@gmail.com
@@ -7,4 +6,4 @@ email: eugeneolkhov@gmail.com
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minimal
